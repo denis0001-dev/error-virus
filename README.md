@@ -14,8 +14,11 @@
 Потом на вкладке **Embed** перетащите [virus.vbs](https://raw.githubusercontent.com/denis0001-dev/error-virus/main/virus.vbs) и нажмите Convert. Назовите **имя выходного exe-файла** и готово!
 
 Настройки должны **получится так**:
+
 ![Главные настройки](https://github.com/denis0001-dev/error-virus/blob/main/img/mainsettings.png?raw=true)
+
 ![Настройки встаивания](https://github.com/denis0001-dev/error-virus/blob/main/img/embedsettings.png?raw=true)
+
 # Как он работает
 При запуске, вирус запускает [virus.vbs](https://raw.githubusercontent.com/denis0001-dev/error-virus/main/virus.vbs) из bat-файла, конвертированного в **exe** с помощью `wscript ./virus.vbs`.
 Дальше, он запускает самого себя через `CreateObject("WScript.Shell").Run(".\\virus.vbs")` и создает **окно ошибки**:
