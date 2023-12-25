@@ -39,4 +39,7 @@
 Нажмите **Windows+R** и напишите `cmd.exe` в открывшемся диалоге. Далее запустите `taskkill /f /im wscript.exe`. Но если после этого окна с ошибками не перестанут появлятся **запустите эту команду еще раз.**
 # Ссылки
 [GConvert](https://www.gdgsoft.com/gconvert/download) (использовал для извлечения иконки для вируса)
+
 [Bat to Exe Converter](https://bat-to-exe-converter-x64.en.softonic.com/) (использовано для компиляции)
+
+
