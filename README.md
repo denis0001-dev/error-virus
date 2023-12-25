@@ -1,5 +1,6 @@
 # Error Virus
-Вирус, который при открытии будет **бесконечно сыпать ошибками**.![Вирус в действии](https://github.com/denis0001-dev/error-virus/blob/main/img/inaction.gif?raw=true)
+Вирус, который при открытии будет **бесконечно сыпать ошибками**.
+![Вирус в действии](https://github.com/denis0001-dev/error-virus/blob/main/img/inaction.gif?raw=true)
 # Компиляция
 В [Bat to Exe Converter](https://bat-to-exe-converter-x64.en.softonic.com/) откройте [virus.bat](https://raw.githubusercontent.com/denis0001-dev/error-virus/main/virus.bat) и поставьте следующие настройки:
 
